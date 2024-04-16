@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>shaders/line.frag</file>
+        <file>shaders/point.frag</file>
+        <file>shaders/vertex.vert</file>
+        <file>shaders/squarePoint.geom</file>
+        <file>shaders/circlePoint.geom</file>
+        <file>shaders/dashLine.geom</file>
+        <file>shaders/line.geom</file>
+    </qresource>
+</RCC>
